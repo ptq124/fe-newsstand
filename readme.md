@@ -61,6 +61,11 @@
 
 <img width="470" height="700" src="https://github.com/ptq124/fe-newsstand/assets/64758823/50c99bc9-c11a-4cab-9326-8089b59c05e6">
 
+## 주차별 고민 내용
+2주차🔥 [링크](https://cosmic-muskox-9cf.notion.site/2-36d80c3f58a245b295e7d919c01f1753?pvs=4)
+
+3주차🔥 [링크](https://cosmic-muskox-9cf.notion.site/3-9b38008683534e43b17fe9272b418061?pvs=4)
+
 ## 메인화면
 
 <img width="1203" alt="스크린샷 2023-07-27 오후 4 39 54" src="https://github.com/ptq124/fe-newsstand/assets/64758823/67e961bf-23b7-4054-a02c-24af3c10e7a7">
